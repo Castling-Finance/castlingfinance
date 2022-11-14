@@ -22,7 +22,10 @@ function App() {
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
     <text className='subtitle'>Cutting edge financial innovation. Coming soon.</text>
-    <button className="contact-button">Contact Us</button>
+    <button className="contact-button" onClick={(e) => {
+      e.preventDefault();
+      window.open('mailto:yash@castling.finance', '_blank', 'noopener,noreferrer');
+      }}>Contact Us</button>
     </div>
     </div>
     </div>
