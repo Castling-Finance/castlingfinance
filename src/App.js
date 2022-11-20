@@ -1,4 +1,4 @@
-import logo from './logo1.png';
+import logo from './svg-logo.svg';
 import './App.css';
 import * as React from 'react';
 
@@ -21,7 +21,7 @@ function App() {
     </div>
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
-    <text className='subtitle'>Cutting edge financial innovation. Coming soon.</text>
+    <text className='subtitle'>Actively Managed Stalecoin Liquidity.</text>
     <button className="contact-button" onClick={(e) => {
       e.preventDefault();
       window.open('mailto:yash@castling.finance', '_blank', 'noopener,noreferrer');

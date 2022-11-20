@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Playfair+Display&family=Roboto&display=swap');
 
 .App{
-  background-color: #b6d7a8;
+  background-color: #000000;
   min-height: 100vh;
   justify-content:space-between;
   display: flex;
@@ -39,7 +39,7 @@ user-select: none; /* Standard */
 }
 
 .App-logo {
-  height: 10vmin;
+  height: 15vmin;
   margin-top: 5vmin;
 
 }
@@ -58,7 +58,7 @@ vertical-align: baseline;
 }
 
 .upper-button{
-  color:rgb(0, 0, 0);
+  color: #ffffff;
   font-size: calc(1.5vh + 2vmin);
   font-family: 'Roboto', sans-serif;
   border: none;
@@ -79,7 +79,7 @@ vertical-align: baseline;
   left: 0;
   background: none;
   background-color: 
-#000000;
+#ffffff;
   transform-origin: bottom right;
   transition: transform 0.25s ease-out;
 }
@@ -93,19 +93,21 @@ vertical-align: baseline;
   font-family: 'Playfair Display', serif;
   font-size: calc(5vh + 2vmin);
   font-weight: bold;
+  color: #ffffff;
 }
 
 .subtitle{
   margin-top: 1.5vh;
   font-family: 'Roboto', sans-serif;
   font-size: calc(1.5vh + 2vmin);
+  color: #ffffff;
 }
 
 .contact-button{
   margin-top: 1.5vh;
   font-family: 'Roboto', sans-serif;
   font-size: calc(1.5vh + 2vmin);
-  border-color: #000000;
+  border-color: #ffffff;
   border-width: 2px;
   float: left;
   text-align: left;
@@ -114,7 +116,7 @@ vertical-align: baseline;
   cursor: pointer;
   width: fit-content;
   text-decoration: none;
-  color: #000000;
+  color: #ffffff;
 }
 
 
