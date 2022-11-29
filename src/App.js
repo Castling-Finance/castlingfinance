@@ -16,7 +16,7 @@ function App() {
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
       window.open('https://cal.com/yash-zanwar-9pqiaj', '_blank', 'noopener,noreferrer');
-      }}>Get in Touch</button>
+      }}>Get in touch</button>
       </div>
     </div>
     <div className="AppLower">
