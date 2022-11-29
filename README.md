@@ -1,4 +1,4 @@
 # 🏰 Castling Finance
-**Website**: castling.finance \
-**Docs**: docs.castling.finance
+**Website**: [castling.finance](caslting.finance) \
+**Docs**: [docs.castling.finance](docs.castling.finance) \
 **Email**: yash@castling.finance
