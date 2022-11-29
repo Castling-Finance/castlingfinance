@@ -11,7 +11,7 @@ function App() {
       <div className='AppBar'>
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
-      window.open('https://castling-finance.gitbook.io/docs/', '_blank', 'noopener,noreferrer');
+      window.open('https://docs.castling.finance', '_blank', 'noopener,noreferrer');
       }}>Docs</button>
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
