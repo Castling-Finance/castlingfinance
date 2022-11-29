@@ -21,7 +21,7 @@ function App() {
     </div>
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
-    <text className='subtitle'>Actively Liquidity Management</text>
+    <text className='subtitle'>Active Liquidity Management</text>
     <button className="contact-button" onClick={(e) => {
       e.preventDefault();
       window.open('mailto:yash@castling.finance', '_blank', 'noopener,noreferrer');
