@@ -15,17 +15,13 @@ function App() {
       }}>Docs</button>
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
-      window.open('https://twitter.com/Castling_Fin', '_blank', 'noopener,noreferrer');
-      }}>Community</button>
+      window.open('https://cal.com/yash-zanwar-9pqiaj', '_blank', 'noopener,noreferrer');
+      }}>Get in Touch</button>
       </div>
     </div>
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
     <text className='subtitle'>Active Liquidity Management</text>
-    <button className="contact-button" onClick={(e) => {
-      e.preventDefault();
-      window.open('mailto:yash@castling.finance', '_blank', 'noopener,noreferrer');
-      }}>Contact Us</button>
     </div>
     </div>
     </div>
