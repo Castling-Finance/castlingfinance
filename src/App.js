@@ -20,7 +20,7 @@ function App() {
     <button className="launch_app" onClick={(e) => {
       e.preventDefault();
       window.open('https://app.castling.finance', '_blank', 'noopener,noreferrer');
-      }}>Launch App</button>
+      }}>Launch App (Testnet)</button>
       </div>
     </div>
     <div className="AppLower">
