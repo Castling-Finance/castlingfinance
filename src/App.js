@@ -11,7 +11,7 @@ function App() {
       <div className='AppBar'>
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
-      window.open('https://castling-finance.gitbook.io/docs/', '_blank', 'noopener,noreferrer');
+      window.open('https://docs.castling.finance', '_blank', 'noopener,noreferrer');
       }}>Docs</button>
       <button className="upper-button" onClick={(e) => {
       e.preventDefault();
@@ -25,7 +25,7 @@ function App() {
     </div>
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
-    <text className='subtitle'>Active Liquidity Management</text>
+    <text className='subtitle'>Active Liquidity Management. Coming Soon.</text>
     </div>
     </div>
     </div>
