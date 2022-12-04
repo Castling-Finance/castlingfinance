@@ -119,6 +119,16 @@ vertical-align: baseline;
   color: #ffffff;
 }
 
+.launch_app{
+  font-family: 'Roboto', sans-serif;
+  font-size: calc(1.2vh + 2vmin);
+  color: #000000;
+  background-color: #ffffff;
+  border-color: #ffffff;
+  border-width: 2px;
+  border-radius: 16px;
+  cursor: pointer;
+}
 
 
 @keyframes App-logo-spin {
