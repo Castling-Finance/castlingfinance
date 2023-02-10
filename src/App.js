@@ -19,7 +19,7 @@ function App() {
       }}>Get in touch</button>
     <button className="launch_app" onClick={(e) => {
       e.preventDefault();
-      window.open('https://app.castling.finance', '_blank', 'noopener,noreferrer');
+      window.open('https://master.d1q9zblgxqcyjg.amplifyapp.com/', '_blank', 'noopener,noreferrer');
       }}>Launch App (Testnet)</button>
       </div>
     </div>
