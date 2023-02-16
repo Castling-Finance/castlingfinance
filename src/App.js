@@ -25,7 +25,7 @@ function App() {
     </div>
     <div className="AppLower">
     <text className='heading'>Castling Finance</text>
-    <text className='subtitle'>Swap across chains. Coming Soon.</text>
+    <text className='subtitle'>Coming Soon.</text>
     </div>
     </div>
     </div>
